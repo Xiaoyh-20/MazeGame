@@ -5,7 +5,6 @@ Solving a MazeGame problem using Q-Learning.
 
 ```bash
 git clone https://github.com/Xiaoyh-20/MazeGame
-cd code
 python main.py
 ```
 
