@@ -4,8 +4,8 @@ Solving a MazeGame using Q-Learning.
 ## Installation
 
 ```bash
-git 
-cd 
+git https://github.com/Xiaoyh-20/MazeGame
+cd code
 python main.py
 ```
 
